@@ -11,4 +11,4 @@ The translator uses a **JSON file** to store the dictionary of Morse code mappin
 - **Text to Morse Code Translation**: Convert any text input into Morse code.
 - **Morse Code to Text Translation**: Decode Morse code back into human-readable text.
 - **Interactive Command-Line Interface**: Users can input their choice and data directly into the console.
-- **JSON Dictionary**: A JSON file stores the Morse code dictionary, allowing for easy
+- **JSON Dictionary**: A JSON file stores the Morse code dictionary, allowing for easy modifications and expansions.
